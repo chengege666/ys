@@ -1,0 +1,9 @@
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=这里填域名&type=ws&host=这里填域名&path=%2Ftr%3Fed%3D2560#BPB好人
+
+
+搜索   icon_hash="-1354027319" && asn="13335" && port="443"
+
+
+打开网之后输入  login 
+
+
